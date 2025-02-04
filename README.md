@@ -1,7 +1,4 @@
-change the name of the project
-Sure! Here's the updated README.mdfile content with the new project name. Please provide the new name you'd like to use for the project.
 
-For now, I'll use "InnovateWave" as an example:
 
 InnovateWave
 InnovateWave is an innovative front-end web application designed to enhance user experience through seamless navigation and responsive design. Built with modern web technologies like React, Vite, and Tailwind CSS, InnovateWave offers a robust and efficient platform for showcasing creative ideas and solutions. Explore the power of interactive components and captivating visuals with InnovateWave.
